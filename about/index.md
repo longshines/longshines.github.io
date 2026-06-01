@@ -11,7 +11,7 @@ layout: page
 
 # 联系方式
 
-+ Email：<001@longshine.wang>
++ Email：<iam@longshine.wang>
 
 ---
 
